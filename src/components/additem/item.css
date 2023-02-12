@@ -1,0 +1,12 @@
+.addItem-container{
+    margin: 0 auto;
+    border: 2px solid red;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.margin-bottom{
+    margin-bottom: 10px;
+}
